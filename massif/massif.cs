@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace HomeWork2
+namespace massif
 {
     internal class Program
     {
