@@ -13,3 +13,5 @@
 калькулятор - https://github.com/unknown-dlt/fishtasks/tree/main/task6
 <hr>
 блок схемы - https://github.com/unknown-dlt/fishtasks/tree/main/block
+<hr>
+новелла - https://github.com/unknown-dlt/fishtasks/tree/main/novel
